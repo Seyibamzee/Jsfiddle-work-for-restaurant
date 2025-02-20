@@ -32,7 +32,8 @@ body{
     .product{
       width:30%;
     }
-    .productImg{width:100%;}
+    .productImg{width:100%;
+      border: 15px solid yellow;}
     
     p{
       font-size:2vw;
