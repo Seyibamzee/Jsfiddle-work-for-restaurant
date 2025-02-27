@@ -35,7 +35,7 @@ body{
       width:30%;
     }
     .productImg{width:100%;
-      border: 15px solid yellow;}
+      border: 15px solid;}
     
     p{
       font-size:2vw;
@@ -105,5 +105,3 @@ p{
   color: yellow;
 
 }
-
-
